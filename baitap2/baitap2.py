@@ -1,0 +1,1 @@
+print("mk sinh nam 2006")
